@@ -201,6 +201,9 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# PayPal P&L artefacts
+paypal_pnl_*.json
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
